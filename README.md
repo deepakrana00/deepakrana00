@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 📫 How to reach me **limda5533@gmail.com**
+- 📫 How to reach me **dr312253@gmail.com**
 
 - ⚡ Fun fact **Let's have some fun 😅**
 
