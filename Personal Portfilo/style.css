@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400..800&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400..800&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sidebar{
+     background-color:rgba(128, 128, 128, 0.251); 
+    width: 434px;
+    height: 100vh;
+    font-family: 'Fira Sans', sans-serif;
+   transition: transform 0.3s ease-in;
+
+
+}
+.sidebar nav{
+    padding: 45px;
+
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 30px;
+    padding: 25px;
+
+}
+.sidebar nav li a{
+    text-decoration: none;
+    color: black;
+}
+.main{
+    /* background-color: yellow; */
+    width: 90vw;
+}
+.container{
+    display: flex;
+
+
+}
+.infoContainer{
+  /* background-color: rgb(0, 255, 47); */
+  height: 50vh;
+  width: 80vw;  
+  margin:  144px auto; 
+  display: flex;
+  justify-content: space-around;
+}
+.devPic img{
+    height: 50vh;
+    
+}
+.devInfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family:'Source Code Pro', monospace;
+}
+.hello{
+  font-size: 45px;
+  font-weight: 400;
+}
+.name{
+   font-size: 40px;
+   font-weight: bold;
+}
+.about{
+    font-size: 20px;
+}
+.moreabout{
+    font-size: 22px;
+    font-family: 'Fira Sans' ,sans-serif;
+    margin-top: 23px;
+    
+}
+.buttons{
+    margin-top: 34px;
+}
+.buttons button{
+     padding: 10px 15px;
+     background-color:black;
+   color: white;
+   border: 0;
+   outline: 0;
+   border-radius: 8px;
+   font-size: 12px;
+  font-weight: 700;
+  margin: 0 3px;
+  cursor: pointer;
+
+}
+.buttons button:hover{
+    color: white;
+    background-color: yellowgreen;
+    transition: all 0.3s ease-in;
+    transform: scale(1.1);
+}
+
+.contactform{
+    padding-top: 100px;
+    padding: 0 34px;
+    font-family: 'Fira Sans', sans-serif;
+
+
+}
+.contactform h1{
+    font-family:'Source Code Pro', monospace;
+    text-align: center;
+
+}
+.contactform form div{
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+}
+.contactform form div input{
+    width: 25vw;
+    border-radius: 5px;
+    margin: 6px 0 0 0;
+    
+    padding:3px;
+}
+#emailHelp{
+    font-size: 8px;
+    color: midnightblue;
+    margin:  0 5px;
+}
+#form-check{
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  
+}
+#form-check-input{
+     width:12px;
+    margin: auto 0;
+}
+.contactform button{
+    padding: 8px 12px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border: 0;
+    outline: 0;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+
+}
+.blogContainer{
+    display: flex;
+    flex-direction: column;
+  margin: 40px;
+  
+}
+.blogItem {
+    font-size: 20px;
+    font-family: 'Fira Sans', sans-serif;
+    margin-bottom: 5px;
+    
+}
+.blogItem h2{
+    font-family: 'Fira Sans', sans-serif;
+    margin-bottom: 5px;
+}
+.blogItem p{
+    font-family:'Source Code Pro', monospace;
+    margin-bottom: 5px;
+}
+.blogItem button{
+    padding: 8px 12px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border: 0;
+    outline: 0;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.sidebarGo{
+      transform: translate(-443px , 0px);
+      position: absolute;
+}
+.hamburger{
+  position: absolute;
+  cursor: pointer;
+  top: 10px;
+  left: 10px;
+
+}
+.cross{
+    margin-left: 275px;
+}
+@media (max-width:1500px){
+    .sidebar{
+        transform: translateX(-264px, 0px);
+        position: absolute;
+
+    }
+
+}
