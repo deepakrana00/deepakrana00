@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/deepak-rana-840859272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepak-rana-840859272" height="30" width="40" /></a>
-<a href="https://instagram.com/deepahrana77729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepahrana77729" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@deepakrana77729?si=cqucsncn6rsm7coc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@deepakrana77729?si=cqucsncn6rsm7coc" height="30" width="40" /></a>
+<a href="(https://www.instagram.com/theundefinedcodrr?igsh=ZnZlbGlscXk0Ymtl)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepahrana77729" height="30" width="40" /></a>
+<a href="(https://youtube.com/@theundefinedcodrr?si=3ERKQHREjwNTVDVg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="(https://youtube.com/@theundefinedcodrr?si=3ERKQHREjwNTVDVg)" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ct2301104850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ct2301104850" height="30" width="40" /></a>
 </p>
 
